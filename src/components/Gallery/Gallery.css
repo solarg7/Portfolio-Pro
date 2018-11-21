@@ -1,0 +1,46 @@
+.header_01 {
+  background-color: rgb(227, 194, 110);
+  /* background-image: url("/assets/images/geometry.svg"); */
+  background-repeat: repeat;
+  color: white;
+  min-height: 400px;
+  padding: 20px 20px; 
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.header_01 h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-family: 'Cabin Condensed', sans-serif;
+  font-size: 4rem;
+  border-bottom: 1px solid blue;
+
+}
+
+.columna2{
+  text-align: left;
+  border: 1px solid blue;
+  height: 200px;
+  
+}
+
+.columna1{
+  text-align: left;
+  border: 1px solid blue;
+  
+}
+
+.columnaIcon { 
+  /* width:100%;  */
+  /* max-height: 60px; */
+  text-align: left;
+  border: 1px solid blue;
+}
+
+img { 
+  /* width:100%;  */
+  max-height: 500px;
+  text-align: left;
+  border: 1px solid orange;
+}
