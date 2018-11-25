@@ -1,62 +1,7 @@
-[
-  {
-    "id": 1,
-    "image": "/assets/images/beth.png",
-    "clicked": false
-  },
-  {
-    "id": 2,
-    "image": "/assets/images/birdperson.png",
-    "clicked": false
-  },
-  {
-    "id": 3,
-    "image": "/assets/images/evilmorty.png",
-    "clicked": false
-  },
-  {
-    "id": 4,
-    "image": "/assets/images/gianthead.png",
-    "clicked": false
-  },
-  {
-    "id": 5,
-    "image": "/assets/images/goldenford.png",
-    "clicked": false
-  },
-  {
-    "id": 6,
-    "image": "/assets/images/jerry.png",
-    "clicked": false
-  },
-  {
-    "id": 7,
-    "image": "/assets/images/jessica.png",
-    "clicked": false
-  },
-  {
-    "id": 8,
-    "image": "/assets/images/meeseeks.png",
-    "clicked": false
-  },
-  {
-    "id": 9,
-    "image": "/assets/images/morty.png",
-    "clicked": false
-  },
-  {
-    "id": 10,
-    "image": "/assets/images/mr.png",
-    "clicked": false
-  },
-  {
-    "id": 11,
-    "image": "/assets/images/rick.png",
-    "clicked": false
-  },
-  {
-    "id": 12,
-    "image": "/assets/images/summer.png",
-    "clicked": false
-  }
-]
+[{"name": "Page A", "uv": 4000, "pv": 2400, "amt": 2400},
+{"name": "Page B", "uv": 3000, "pv": 1398, "amt": 2210},
+{"name": "Page C", "uv": 2000, "pv": 9800, "amt": 2290},
+{"name": "Page D", "uv": 2780, "pv": 3908, "amt": 2000},
+{"name": "Page E", "uv": 190, "pv": 4800, "amt": 2181},
+{"name": "Page F", "uv": 2390, "pv": 3800, "amt": 2500},
+{"name": "Page G", "uv": 3490, "pv": 4300, "amt": 2100}]

@@ -79,6 +79,7 @@ class Game extends Component {
         <Header />
         {/* <Starter_01 /> */}
         <Gallery />
+        
         <Footer />
       </div>
     );
